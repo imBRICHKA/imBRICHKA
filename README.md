@@ -7,4 +7,4 @@
 
 
 
-![Views](https://komarev.com/ghpvc/?username=imBRICHKA)
+![Profile Views](https://komarev.com/ghpvc/?username=imBRICHKA&color=blue)
