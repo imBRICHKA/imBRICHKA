@@ -7,4 +7,4 @@
 
 
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=imBRICHKA.imBRICHKA)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/imBRICHKA&title=GitHub%20Views)
