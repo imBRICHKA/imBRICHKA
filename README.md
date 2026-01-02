@@ -6,5 +6,4 @@
 
 
 
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/imBRICHKA&title=GitHub%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=imBRICHKA&color=ff69b4&label=🐾+Котики+видят+вас+уже)
