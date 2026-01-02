@@ -7,4 +7,4 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=imBRICHKA&color=blue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=imBRICHKA.imBRICHKA)
