@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://mynickname.com/id1840207">
+  <a href="https://mynickname.com/id1840207" width="150">
     <img src="https://mynickname.com/forum2t5/imBRICHKA.gif" alt="BRICHKA" width="150">
   </a>
   
