@@ -7,4 +7,4 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=ВАШ_USERNAME&color=ff69b4&label=🐱+Котики+видят+вас+уже&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=imBRICHKA&color=ff69b4&label=🐱+Котики+видят+вас+уже&style=for-the-badge)
