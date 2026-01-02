@@ -10,6 +10,5 @@
   
   <hr>
   
-  <h2>Моё фото</h2>
-  <img src="https://imgur.com/a/hUqTpNu" alt="Моё фото" width="300" style="border-radius: 10px; border: 3px solid #ff69b4;">
+  <img src="https://i.imgur.com/TMoKcR0.jpeg" alt="" width="300" style="border-radius: 10px; border: 3px solid #ff69b4;">
 </div>
