@@ -1,10 +1,4 @@
 <div align="center">
-  <a href="https://mynickname.com/id1840207">
-    <img src="https://mynickname.com/forum2t5/imBRICHKA.gif" alt="BRICHKA" width="400" style="border: 3px solid #ff69b4; border-radius: 15px;">
-  </a>
-  
-
-
   
   <p><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&width=238&lines=github.com%2FimBRICHKA" alt="Typing SVG"/></p>
   
